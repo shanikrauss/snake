@@ -1,6 +1,3 @@
-// ID: 206269649
-// Full name: SHANI KRAUSS
-
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
